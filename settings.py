@@ -1,0 +1,18 @@
+partidos = [
+    "nuevo_liberalismo",
+    "alianza_verde",
+    "cambio_radical",
+    "centro_democratico",
+    "comunes",
+    "estamos_listas",
+    "fuerza_ciudadana",
+    "gente_nueva",
+    "mira",
+    "pacto_historico",
+    "partido_conservador",
+    "partido_de_la_u",
+    "partido_liberal",
+    "salvacion_nacional",
+    "sos_colombia",
+    "unitario_metapolitico",
+]
