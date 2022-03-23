@@ -1,0 +1,1 @@
+export const CeroVotos = React.lazy(() => import(/* webpackChunkName: "CeroVotos" */ './fragments/CeroVotos.react'));

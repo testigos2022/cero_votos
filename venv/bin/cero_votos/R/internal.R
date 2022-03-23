@@ -1,0 +1,27 @@
+.ceroVotos_js_metadata <- function() {
+deps_metadata <- list(`cero_votos` = structure(list(name = "cero_votos",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-CeroVotos.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "ceroVotos",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`cero_votos` = structure(list(name = "cero_votos",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-CeroVotos.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "ceroVotos",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`cero_votos` = structure(list(name = "cero_votos",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'cero_votos.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "ceroVotos",
+all_files = FALSE), class = "html_dependency"),
+`cero_votos` = structure(list(name = "cero_votos",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'cero_votos.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "ceroVotos",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}
