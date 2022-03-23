@@ -17,16 +17,6 @@ for i, d in enumerate(departamentos):
     #
     departamento_to_municipios[departamentos[i]] = list(mnps)
 
-# municipios_to_puestos = {}
-# for i, d in enumerate(departamentos):
-#     dpt = data.loc[data['departamento'] == departamentos[i]]
-#     mnps = dpt['municipio'].unique()
-#     municipios_to_puestos[departamentos[i]] = list(mnps)
-#
-#     for key, value in municipios_to_puestos.items():
-#         mnp = data.loc[data['municipio'] == municipios[i]]
-#         psts = mnp['puesto'].unique()
-#         municipios_to_puestos[municipios[i]] = list(psts)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP],)
 
