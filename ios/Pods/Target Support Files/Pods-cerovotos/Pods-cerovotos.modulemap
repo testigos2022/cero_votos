@@ -1,0 +1,6 @@
+module Pods_cerovotos {
+  umbrella header "Pods-cerovotos-umbrella.h"
+
+  export *
+  module * { export * }
+}
